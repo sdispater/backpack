@@ -1,0 +1,28 @@
+*.pyc
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+_build
+.cache
+*.so
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+.DS_Store
+.idea/*
+
+/test.py
+/test_*.py
+/benchmark/*
+benchmark.py
+results.json
+profile.html
