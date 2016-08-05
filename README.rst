@@ -15,7 +15,7 @@ Collection
 
 The ``Collection`` class provides a fluent, convenient wrapper for working with list  of data.
 
-To instantiatte a ``Collection`` you can also use the ``collection()`` helper.
+To instantiatte a ``Collection`` you can also use the ``collect()`` helper.
 
 
 Available Methods
